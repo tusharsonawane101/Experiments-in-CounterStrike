@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CS dataset</folder>
+	<filename>scene01941.jpeg</filename>
+	<path>E:\machine learning\CS DATA\CS dataset\scene01941.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>196</ymin>
+			<xmax>490</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
