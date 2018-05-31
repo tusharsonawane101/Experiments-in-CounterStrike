@@ -5,6 +5,5 @@ Future developement will hopefully include a Visual Positioning System for the b
 The repository provides all the files needed to train a "Counter Strike" Terrorist/Counter Terrorist detector that can detect Terrorists and Counter Terrorists.
 
 Requirements:
-Python 3
-Tensorflow Object Detection API
+Python 3, Tensorflow Object Detection API
 
