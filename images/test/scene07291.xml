@@ -1,0 +1,50 @@
+<annotation>
+	<folder>CS dataset</folder>
+	<filename>scene07291.jpeg</filename>
+	<path>E:\machine learning\CS DATA\CS dataset\scene07291.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>385</ymin>
+			<xmax>696</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>311</ymin>
+			<xmax>700</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>989</xmin>
+			<ymin>542</ymin>
+			<xmax>1184</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>
