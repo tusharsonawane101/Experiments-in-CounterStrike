@@ -1,0 +1,38 @@
+<annotation>
+	<folder>CS dataset</folder>
+	<filename>scene05161.jpeg</filename>
+	<path>E:\machine learning\CS DATA\CS dataset\scene05161.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terr1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>671</xmin>
+			<ymin>356</ymin>
+			<xmax>695</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>terr1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>395</ymin>
+			<xmax>815</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
